@@ -1,0 +1,14 @@
+{
+  "selectors": {
+    "product_container": ".product-card",
+    "name": ".product-title",
+    "price": ".price",
+    "rating": ".rating",
+    "availability": ".stock-status"
+  },
+  "pagination": {
+    "enabled": true,
+    "param": "page",
+    "selector": ".next-page"
+  }
+}
